@@ -4,4 +4,4 @@
 /**/vendor/
 /**/var/
 # remove this
-/**/shopware-dev/
+/app/shopware-dev/
