@@ -23,7 +23,7 @@ sudo apt-get install -y docker-ce docker-ce-cli containerd.io docker-buildx-plug
 
 sudo groupadd docker
 sudo usermod -aG docker $USER
-newgrp docker
+#newgrp docker
 
 # Add DDEV releases to your package repository
 sudo sh -c 'echo ""'
