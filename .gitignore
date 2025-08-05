@@ -1,7 +1,5 @@
 /.idea
 /.DS_Store
 /.ddev/
-# remove this /app/**
-/app/**
 /**/vendor/
 /**/var/
