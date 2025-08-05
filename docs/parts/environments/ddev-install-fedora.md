@@ -1,6 +1,6 @@
 ![logo](../assets/logo.png)
 
-##### [← Back to overview](../README.md)
+##### [← Back to overview](README.md)
 
 [DDEV-Docs](https://ddev.readthedocs.io/)
 

@@ -5,8 +5,8 @@
 Documentation
 ==============================
 
-### [Install on Fedora](parts/ddev-install-fedora.md)
-Guides for installing ddev under fedora system.
+### [Install](parts/environments/README.md)
+Guides for installing ddev under operating systems.
 
 ### [Setup](parts/setup.md)
 Guides for setup a new empty project
