@@ -1,7 +1,7 @@
 /.idea
 /.DS_Store
 /.ddev/
+# remove this /app/**
+/app/**
 /**/vendor/
 /**/var/
-# remove this
-/app/shopware-dev/
